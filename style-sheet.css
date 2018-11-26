@@ -1,5 +1,6 @@
 # css-external
 first attempt @ external css
+ <style type="text/css">
 h1  {
        text-align: center;
        font-size: 12pt;
@@ -32,3 +33,4 @@ h1  {
     .centerCell {
        text-align: center;
     }
+</style>
